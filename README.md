@@ -1,6 +1,14 @@
 # 💫 About Me:
 🔭 I’m currently working on<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+ a secret🤫 class project<br>🌱 I’m currently learning<br>          + Intelligent Systems<br>          + Computer Architectures<br>          + Java, Python<br>⭐ Likes<br>          + Videogames (love Hades)<br>          + Knitting, Crocheting, Cross Stitching<br>          + Cooking & Baking
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+ a secret🤫 class project<br>
+🌱 I’m currently learning<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+ Intelligent Systems<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+ Computer Architectures<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+ Java, Python<br>
+⭐ Likes<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+ Videogames (love Hades)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+ Knitting, Crocheting, Cross Stitching<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+ Cooking & Baking
 
 
 ## 🌐 Socials:
@@ -11,10 +19,10 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=anamurielveron&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anamurielveron&theme=gruvbox&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anamurielveron&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+// ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anamurielveron&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=anamuriel_v)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+// ## 🐦 Latest Tweet
+// [![](https://gtce.itsvg.in/api?username=anamuriel_v)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=anamurielveron&icon=3&color=2)](https://visitcount.itsvg.in)
