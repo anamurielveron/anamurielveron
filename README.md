@@ -9,6 +9,7 @@
 - 🏹 De La Salle University
 - 🌏 Manila, Philippines
 - 🏷️ Pronouns: she/her
+- 🎂 Birthday: November 12, 2001
 <br> 
 <br>
    <body>
@@ -42,9 +43,11 @@
   
 __________________________________________________________________________________________________
 ### ⭐ Interests
-* Videogames (love Hades)
-* Knitting, Crocheting, Cross Stitching
+* Anime
 * Cooking & Baking
+* Film & Literature
+* Knitting, Crocheting, Cross Stitching
+* Videogames (check out [Hades](https://store.steampowered.com/app/1145360/Hades/)!)
 
 __________________________________________________________________________________________________
 ### 📊 Stats
