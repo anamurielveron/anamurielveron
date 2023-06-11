@@ -5,7 +5,7 @@
 
 ### Hi! I'm Ana Muriel✨
 
-- 🎓 2nd year BS Computer Science Student
+- 🎓 2nd-year BS Computer Science student
 - 🏹 De La Salle University
 - 🌏 Manila, Philippines
 - 🏷️ Pronouns: she/her
