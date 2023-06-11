@@ -62,8 +62,8 @@ ________________________________________________________________________________
 <div>
   
   <a href="https://github.com/rpdana">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=anamurielveron&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=anamurielveron&theme=gruvbox&hide_border=true"/>   
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=anamurielveron&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=anamurielveron&theme=gruvbox&hide_border=true"/>   
 </div>
   
 __________________________________________________________________________________________________
