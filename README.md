@@ -1,14 +1,17 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+ a secret🤫 class project<br>
-🌱 I’m currently learning<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+ Intelligent Systems<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+ Computer Architectures<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+ Java, Python<br>
-⭐ Likes<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+ Videogames (love Hades)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+ Knitting, Crocheting, Cross Stitching<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+ Cooking & Baking
+🙋‍♀️Hi! I'm **Ana Muriel Veron**, a BS Computer Science student @ De La Salle University in the Philippines<br>
+
+🔭 I’m currently working on _a secret_ 🤫 _class project_<br>
+
+#### 🌱 Currently learning:
+* Intelligent Systems
+* Computer Architectures
+* Java, Python<br>
+
+#### ⭐ Likes:
+* Videogames (love Hades)
+* Knitting, Crocheting, Cross Stitching
+* Cooking & Baking
 
 
 ## 🌐 Socials:
