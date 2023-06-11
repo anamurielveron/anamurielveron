@@ -7,8 +7,8 @@
 - 🎓 2nd-year BS Computer Science student
 - 🏹 De La Salle University
 - 🌏 Manila, Philippines
-- 🏷️ Pronouns: she/her
-- 🎂 Birthday: November 12, 2001
+- 🏷️ she/her
+- 🎂 November 12, 2001
 <br> 
 <br>
    <body>
