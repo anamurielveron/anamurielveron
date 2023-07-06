@@ -33,7 +33,7 @@
    </body>  
                               
    <body >
-      <a href="discordapp.com/users/634360752588849160">
+      <a href="https://www.discordapp.com/users/634360752588849160">
          <img align="right" alt="Discord" src="https://cdn3.iconfinder.com/data/icons/social-network-flat-3/100/Discord-1024.png"
          width=30" height="30" >
       </a>
