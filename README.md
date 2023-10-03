@@ -4,7 +4,7 @@
 
 ### Hi! I'm Ana Muriel✨
 
-- 🎓 2nd-year BS Computer Science student
+- 🎓 3rd-year BS Computer Science student
 - 🏹 De La Salle University
 - 🌏 Manila, Philippines
 - 🏷️ she/her
