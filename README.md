@@ -54,24 +54,5 @@ ________________________________________________________________________________
 * Film & Literature
 * Knitting, Crocheting, Cross Stitching
 * Videogames (check out [Hades](https://store.steampowered.com/app/1145360/Hades/)!)
-
-__________________________________________________________________________________________________
-### 📊 Stats
-
-<div>
-  
-  <a href="https://github.com/rpdana">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=anamurielveron&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=anamurielveron&theme=gruvbox&hide_border=true"/>   
-</div>
-  
-__________________________________________________________________________________________________
-<div>
-
-### 🟩 Commits
-  
-  ![Snake animation](https://github.com/rpdana/rpdana/blob/output/github-contribution-grid-snake.svg)
-</div>
-
 __________________________________________________________________________________________________
 [![](https://visitcount.itsvg.in/api?id=anamurielveron&icon=3&color=2)](https://visitcount.itsvg.in)
