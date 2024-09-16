@@ -4,7 +4,7 @@
 
 ### Hi! I'm Ana Muriel✨
 
-- 🎓 3rd-year BS Computer Science student
+- 🎓 4th-year BS Computer Science student
 - 🏹 De La Salle University
 - 🌏 Manila, Philippines
 - 🏷️ she/her
@@ -49,7 +49,6 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________________________
 ### ⭐ Interests
-* Anime
 * Cooking & Baking
 * Film & Literature
 * Knitting, Crocheting, Cross Stitching
