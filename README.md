@@ -1,57 +1,52 @@
-<br>
-<img align="right"  height="250" width="250" alt="anagif" src="https://64.media.tumblr.com/046b914dbd4c7a402f0fa03d17f8ff6f/tumblr_nlypylzrWl1tic1guo9_500.gif">
-</br>
 
-### Hi! I'm Ana Muriel✨
+# Hi, I'm Ana! 🌙
 
-- 🎓 4th-year BS Computer Science student
-- 🏹 De La Salle University
-- 🌏 Manila, Philippines
-- 🏷️ she/her
-- 🎂 November 12, 2001
-<br> 
-<br>
-   <body>
-      <a href="https://www.twitter.com/anamuriel_veron">
-         <img align="right" alt="Twitter" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-1024.png"
-         width=30" height="30">
-      </a>
-   </body> 
-   
-   <body>
-      <a href="https://www.instagram.com/anamurielveron/">
-         <img align="right" alt="Instagram" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-1024.png"
-         width=30" height="30">
-      </a>
-   </body>  
-  
-   <body>
-      <a href="https://www.facebook.com/anamurielveron">
-         <img align="right" alt="Facebook" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook2_colored_svg-1024.png"
-         width=30" height="30">
-      </a>
-   </body>  
-                              
-   <body >
-      <a href="https://www.discordapp.com/users/634360752588849160">
-         <img align="right" alt="Discord" src="https://cdn3.iconfinder.com/data/icons/social-network-flat-3/100/Discord-1024.png"
-         width=30" height="30" >
-      </a>
-   </body>
-  </br>
+I'm a software developer and Computer Science student at **De La Salle University**, specializing in Software Technology. I enjoy building web applications, working with databases, and solving practical problems through software.
 
-__________________________________________________________________________________________________
-  
-### 💾 Tech Stack
-  
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![PlanetScale](https://img.shields.io/badge/planetscale-%23000000.svg?style=for-the-badge&logo=planetscale&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-</div>
+Currently working as a **Programmer at Technistock Philippines, Inc.**, where I work on internal administration systems, feature improvements, database logic, and patch delivery.
 
-__________________________________________________________________________________________________
-### ⭐ Interests
-* Cooking & Baking
-* Film & Literature
-* Knitting, Crocheting, Cross Stitching
-* Videogames (check out [Hades](https://store.steampowered.com/app/1145360/Hades/)!)
-__________________________________________________________________________________________________
-[![](https://visitcount.itsvg.in/api?id=anamurielveron&icon=3&color=2)](https://visitcount.itsvg.in)
+- 🎓 BS Computer Science, expected December 2026
+- 💻 Interested in full-stack development, backend engineering, and developer tools
+- 🗄️ Enjoy working with APIs, relational databases, and application logic
+- 🎨 Interested in UI/UX and building clean, intuitive interfaces
+- 🎲 D&D enthusiast. My portfolio has a tiny dice roller for a reason.
+
+📍 Manila, Philippines · she/her
+
+## 🌐 Connect with Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-458588?style=for-the-badge&logo=vercel&logoColor=white)](https://anamurielveron.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anamurielveron)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anamurielveron@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anamurielveron)
+
+## 🛠️ Tech Stack
+
+### Languages
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### Web Development
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+### Databases & Tools
+![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![PlanetScale](https://img.shields.io/badge/PlanetScale-000000?style=flat-square&logo=planetscale&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Subversion](https://img.shields.io/badge/Apache_Subversion-809CC9?style=flat-square&logo=subversion&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+### Data & Design
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
